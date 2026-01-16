@@ -70,8 +70,8 @@ CLASSES = [
         "icon": "⚽",
         "color": "#8b5cf6", # Violet
         "bg_icon": "#ede9fe",
-        "form": "#",
-        "sheet": "#"
+        "form": "https://docs.google.com/forms/d/e/1FAIpQLSfJKtAJV5GomvI67DfhWJUbVZ1fPn0sQ6-QZHqPSjxvHLbN4g/viewform?usp=pp_url&entry.2024727228=Pr%C3%A9sent&entry.215078296=Pr%C3%A9sent&entry.1978854833=Pr%C3%A9sent&entry.1995798027=Pr%C3%A9sent&entry.1345456164=Pr%C3%A9sent&entry.1837289749=Pr%C3%A9sent&entry.776652965=Pr%C3%A9sent&entry.130836278=Pr%C3%A9sent&entry.190418267=Pr%C3%A9sent&entry.1707877059=Pr%C3%A9sent&entry.930641701=Pr%C3%A9sent&entry.938295061=Pr%C3%A9sent&entry.707187884=Pr%C3%A9sent&entry.1831968273=Pr%C3%A9sent&entry.817717987=Pr%C3%A9sent&entry.2029267544=Pr%C3%A9sent&entry.1529589661=Pr%C3%A9sent&entry.911248793=Pr%C3%A9sent&entry.1881625481=Pr%C3%A9sent&entry.1373148559=Pr%C3%A9sent&entry.1901939998=Pr%C3%A9sent&entry.422216179=Pr%C3%A9sent&entry.1459208861=Pr%C3%A9sent&entry.942786572=Pr%C3%A9sent&entry.803606882=Pr%C3%A9sent&entry.98487844=Pr%C3%A9sent&entry.39493014=Pr%C3%A9sent&entry.2023420167=Pr%C3%A9sent&entry.2082049267=Pr%C3%A9sent&entry.714612561=Pr%C3%A9sent&entry.1652549927=Pr%C3%A9sent&entry.475008448=Pr%C3%A9sent&entry.699882270=Pr%C3%A9sent&entry.1910658620=Pr%C3%A9sent&entry.1993130080=Pr%C3%A9sent&entry.51865348=Pr%C3%A9sent&entry.2136657445=Pr%C3%A9sent&entry.406582727=Pr%C3%A9sent&entry.1476923264=Pr%C3%A9sent&entry.1836240291=Pr%C3%A9sent",
+        "sheet": "https://docs.google.com/spreadsheets/d/1_TyM5GRZEN53zhwfUeHKyLuhskfMcBW3TmMyIvSCElU/edit?usp=sharing"
     },
     {
         "title": "COLLÉGIAL / Classe 3",
