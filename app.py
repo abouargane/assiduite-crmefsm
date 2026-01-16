@@ -86,8 +86,8 @@ CLASSES = [
         "icon": "🏆",
         "color": "#ef4444", # Rouge
         "bg_icon": "#fee2e2",
-        "form": "#",
-        "sheet": "#"
+        "form": "https://docs.google.com/forms/d/e/1FAIpQLSdIJ5DBmUONVCgmZFaz_mcW-rVjc5ARPCOoFfifhRIalxFCPw/viewform?usp=pp_url&entry.398675257=Pr%C3%A9sent&entry.1968877824=Pr%C3%A9sent&entry.594781851=Pr%C3%A9sent&entry.942309867=Pr%C3%A9sent&entry.546739540=Pr%C3%A9sent&entry.1623698320=Pr%C3%A9sent&entry.2134732925=Pr%C3%A9sent&entry.1297637533=Pr%C3%A9sent&entry.331064893=Pr%C3%A9sent&entry.108393856=Pr%C3%A9sent&entry.1260158384=Pr%C3%A9sent&entry.410440903=Pr%C3%A9sent&entry.347228655=Pr%C3%A9sent&entry.1652374732=Pr%C3%A9sent&entry.1827071037=Pr%C3%A9sent&entry.215137344=Pr%C3%A9sent&entry.999247848=Pr%C3%A9sent&entry.1442106016=Pr%C3%A9sent&entry.961622457=Pr%C3%A9sent&entry.1801489423=Pr%C3%A9sent&entry.70920291=Pr%C3%A9sent&entry.601684729=Pr%C3%A9sent&entry.1668649863=Pr%C3%A9sent&entry.1551124819=Pr%C3%A9sent&entry.313309298=Pr%C3%A9sent&entry.362953918=Pr%C3%A9sent&entry.1468948636=Pr%C3%A9sent&entry.1539644971=Pr%C3%A9sent&entry.792749657=Pr%C3%A9sent",
+        "sheet": "https://docs.google.com/spreadsheets/d/1-DZYSedmjbvvVDYz85Lh6MtPCYFfleoL7PtBUkEECmc/edit?usp=sharing#"
     }
 ]
 
