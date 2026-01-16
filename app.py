@@ -78,8 +78,8 @@ CLASSES = [
         "icon": "🏀",
         "color": "#06b6d4", # Cyan
         "bg_icon": "#cffafe",
-        "form": "#",
-        "sheet": "#"
+        "form": "https://docs.google.com/forms/d/e/1FAIpQLSeggaU3m5JpF1LBjAiSNnVZHoagDA6LJ5nNxwXOH5HvRAMxKw/viewform?usp=pp_url&entry.776652965=Pr%C3%A9sent&entry.1165330901=Pr%C3%A9sent&entry.440762414=Pr%C3%A9sent&entry.355629952=Pr%C3%A9sent&entry.398675257=Pr%C3%A9sent&entry.409003067=Pr%C3%A9sent&entry.1536333643=Pr%C3%A9sent&entry.889349291=Pr%C3%A9sent&entry.741669238=Pr%C3%A9sent&entry.956690099=Pr%C3%A9sent&entry.2064960030=Pr%C3%A9sent&entry.1938435724=Pr%C3%A9sent&entry.1682896345=Pr%C3%A9sent&entry.1157435277=Pr%C3%A9sent&entry.1794788588=Pr%C3%A9sent&entry.682000390=Pr%C3%A9sent&entry.1754481764=Pr%C3%A9sent&entry.800680671=Pr%C3%A9sent&entry.1462173215=Pr%C3%A9sent&entry.1831789722=Pr%C3%A9sent&entry.1030610486=Pr%C3%A9sent&entry.272394368=Pr%C3%A9sent&entry.598013341=Pr%C3%A9sent&entry.30855717=Pr%C3%A9sent&entry.1738812404=Pr%C3%A9sent&entry.1492522073=Pr%C3%A9sent&entry.1138354906=Pr%C3%A9sent&entry.1943287025=Pr%C3%A9sent&entry.77296553=Pr%C3%A9sent&entry.1410471048=Pr%C3%A9sent&entry.1382936073=Pr%C3%A9sent&entry.189452538=Pr%C3%A9sent&entry.1647344269=Pr%C3%A9sent&entry.837447489=Pr%C3%A9sent&entry.1900154170=Pr%C3%A9sent&entry.832007900=Pr%C3%A9sent&entry.1956075607=Pr%C3%A9sent&entry.620661955=Pr%C3%A9sent&entry.1071769824=Pr%C3%A9sent&entry.1615502195=Pr%C3%A9sent",
+        "sheet": "https://docs.google.com/spreadsheets/d/1lfp1ja1sWKE590emjo76f4X3ITYB3f-mMS49xePY4IU/edit?usp=sharing"
     },
     {
         "title": "QUALIFIANT",
